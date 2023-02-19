@@ -1,3 +1,2 @@
 "# landing-page-react" 
-"# reat-page" 
-"# reat-page" 
+#created using Vite ,React and bootstrap 
